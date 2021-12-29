@@ -1,4 +1,4 @@
-package com.maxprogrammer.application;
+package com.maxprogrammer.examples;
 
 import java.io.File;
 import java.util.Scanner;
